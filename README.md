@@ -73,3 +73,7 @@ Once the list is reindexed you may submit your changes to this repository and th
 # Academic Citation
 
 This list was originally produced by Timothy Libert, if you are using it for academic research, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
+
+# License
+
+The webXray Domain Owner List is FOSS and licensed under GPLv3, see LICENSE.md for details.
