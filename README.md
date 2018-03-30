@@ -69,3 +69,7 @@ If the parent is not in the database, you must add it using the steps above.  In
 If you have made changes to the list, use Python 3 to run the reindex\_domain\_owners.py script.  It will assign new identifiers and alphabetize the list and the domains.  If you made a mistake in entering the data, the reindexing will crash when attempting to read the file.  If this happens, check to find your mistake.  
 
 Once the list is reindexed you may submit your changes to this repository and they will be checked over for accuracy before being added.
+
+# Academic Citation
+
+This list was originally produced by Timothy Libert, if you are using it for academic research, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
