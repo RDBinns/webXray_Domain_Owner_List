@@ -1268,7 +1268,8 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
-			"comcast.com"
+			"comcast.com",
+			"theplatform.com"
 		]
 	},
 	{
@@ -3067,6 +3068,7 @@
 			"cognitivematch.com",
 			"domdex.com",
 			"magnetic.com",
+			"mybuys.com",
 			"veruta.com"
 		]
 	},
@@ -3477,6 +3479,7 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
+			"adadvisor.net",
 			"home.neustar",
 			"neustar.biz"
 		]
@@ -3647,6 +3650,7 @@
 		"domains"			 : [
 			"outbrain.com",
 			"scribit.com",
+			"sphere.com",
 			"verticalacuity.com",
 			"visualrevenue.com"
 		]
@@ -3853,8 +3857,10 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
+			"1rx.io",
 			"gwallet.com",
-			"radiumone.com"
+			"radiumone.com",
+			"rhythmxchange.com"
 		]
 	},
 	{
@@ -3937,6 +3943,7 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
+			"chango.com",
 			"rubiconproject.com"
 		]
 	},
@@ -4459,6 +4466,7 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
+			"basebanner.com",
 			"perfectmarket.com",
 			"taboola.com"
 		]
@@ -4915,6 +4923,7 @@
 		"notes"				 : null,
 		"country"			 : "US",
 		"domains"			 : [
+			"edgecastcdn.net",
 			"verizon.com"
 		]
 	},
